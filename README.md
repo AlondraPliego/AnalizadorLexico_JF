@@ -1,2 +1,2 @@
-# An-lizador_L-xico_JFLEX
+# Analizador_Lexico_JFLEX
 Analizador léxico creado utilizando JFLEX
